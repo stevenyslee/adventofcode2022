@@ -1,5 +1,7 @@
 {
   "dependencies": {
+    "@datastructures-js/heap": "^4.1.2",
     "yarn": "^1.22.19"
-  }
+  },
+  "type": "module"
 }
